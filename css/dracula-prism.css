@@ -81,7 +81,7 @@ code[class*="language-"] ::selection {
 
 /* Code blocks */
 pre[class*="language-"] {
-  background: rgba(40, 41, 54, 1) !important;
+  background: rgba(40, 41, 54, 1);
   border-radius: 0.5em;
   padding: 1em;
   margin: 0.5em 0;
@@ -101,34 +101,28 @@ pre[class*="language-"] {
   white-space: normal;
 }
 
-.limit-300
-{
-  height: 300px !important;
+.limit-300 {
+  height: 300px;
 }
 
-.limit-400
-{
-  height: 400px !important;
+.limit-400 {
+  height: 400px;
 }
 
-.limit-500
-{
-  height: 500px !important;
+.limit-500 {
+  height: 500px;
 }
 
-.limit-600
-{
-  height: 600px !important;
+.limit-600 {
+  height: 600px;
 }
 
-.limit-700
-{
-  height: 700px !important;
+.limit-700 {
+  height: 700px;
 }
 
-.limit-800
-{
-  height: 800px !important;
+.limit-800 {
+  height: 800px;
 }
 
 .token.comment {
